@@ -17,9 +17,13 @@ Un gestor de contraseñas local seguro con cifrado AES-256, autenticación de us
 - 📋 Generador de contraseñas seguras
 - 🛡️ Protección contra ataques de fuerza bruta
 
+## Intalacion de las dependencias
+
+pip install -r requirements.txt
+
 ## 🚀 Instalación
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/gestor-contrasenas.git
+git clone https://github.com/root3355/DNO-Encryptx.git
 cd gestor-contrasenas
