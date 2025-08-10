@@ -6,15 +6,13 @@
 
 Un gestor de contraseñas local seguro con cifrado AES-256, autenticación de usuarios y sistema de roles.
 
- ____                                                   __       __   __     
-/\  _`\                                                /\ \__   /\ \ /\ \    
-\ \ \L\_\    ___      ___    _ __   __  __     _____   \ \ ,_\  \ `\`\/'/'   
- \ \  _\L  /' _ `\   /'___\ /\`'__\/\ \/\ \   /\ '__`\  \ \ \/   `\/ > <     
-  \ \ \L\ \/\ \/\ \ /\ \__/ \ \ \/ \ \ \_\ \  \ \ \L\ \  \ \ \_     \/'/\`\  
-   \ \____/\ \_\ \_\\ \____\ \ \_\  \/`____ \  \ \ ,__/   \ \__\    /\_\\ \_\
-    \/___/  \/_/\/_/ \/____/  \/_/   `/___/> \  \ \ \/     \/__/    \/_/ \/_/
-                                        /\___/   \ \_\                       
-                                        \/__/     \/_/                      
+ .--.                               .-. .-..-.
+: .--'                             .' `.: `' :
+: `;  ,-.,-. .--. .--. .-..-..---. `. .' `  ' 
+: :__ : ,. :'  ..': ..': :; :: .; ` : : .'  `.
+`.__.':_;:_;`.__.':_;  `._. ;: ._.' :_; :_;:_;
+                        .-. :: :              
+                        `._.':_;    
 
 ![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk5dWl3OGVkY2VhZzV6M2JtY3J6eGJlcW5tZ2NqdGJxZzB0eWZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
 
