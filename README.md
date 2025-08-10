@@ -6,13 +6,11 @@
 
 Un gestor de contraseñas local seguro con cifrado AES-256, autenticación de usuarios y sistema de roles.
 
- .--.                               .-. .-..-.
-: .--'                             .' `.: `' :
-: `;  ,-.,-. .--. .--. .-..-..---. `. .' `  ' 
-: :__ : ,. :'  ..': ..': :; :: .; ` : : .'  `.
-`.__.':_;:_;`.__.':_;  `._. ;: ._.' :_; :_;:_;
-                        .-. :: :              
-                        `._.':_;    
+ ___                             _   __  _ 
+| __>._ _  ___  _ _  _ _  ___  _| |_ \ \/  
+| _> | ' |/ | '| '_>| | || . \  | |   \ \  
+|___>|_|_|\_|_.|_|  `_. ||  _/  |_|  _/\_\ 
+                    <___'|_|                
 
 ![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk5dWl3OGVkY2VhZzV6M2JtY3J6eGJlcW5tZ2NqdGJxZzB0eWZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
 
