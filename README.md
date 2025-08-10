@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Instagram](https://www.instagram.com/dark_net_operatives?igsh=MTQybzQ5b3EweG4wbg%3D%3D&utm_source=qr)
+![Instagram](https://img.shields.io/badge/Status-Stable-brightgreen)
 
 Un gestor de contraseñas local seguro con cifrado AES-256, autenticación de usuarios y sistema de roles.
               
