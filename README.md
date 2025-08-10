@@ -2,15 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+![Instagram](https://www.instagram.com/dark_net_operatives?igsh=MTQybzQ5b3EweG4wbg%3D%3D&utm_source=qr)
 
 Un gestor de contraseñas local seguro con cifrado AES-256, autenticación de usuarios y sistema de roles.
-
- ___                             _   __  _ 
-| __>._ _  ___  _ _  _ _  ___  _| |_ \ \/  
-| _> | ' |/ | '| '_>| | || . \  | |   \ \  
-|___>|_|_|\_|_.|_|  `_. ||  _/  |_|  _/\_\ 
-                    <___'|_|                
+              
 
 ![Demo GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVzYzBvMXhtbDlnejV1dTIzZTVoc3o1ZzhibWJxMXAxM2ZuNDBhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/33HzTnurbarmhqu7QN/giphy.gif)
 
