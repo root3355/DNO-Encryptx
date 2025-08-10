@@ -12,7 +12,7 @@ Un gestor de contraseñas local seguro con cifrado AES-256, autenticación de us
 |___>|_|_|\_|_.|_|  `_. ||  _/  |_|  _/\_\ 
                     <___'|_|                
 
-![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk5dWl3OGVkY2VhZzV6M2JtY3J6eGJlcW5tZ2NqdGJxZzB0eWZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
+![Demo GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVzYzBvMXhtbDlnejV1dTIzZTVoc3o1ZzhibWJxMXAxM2ZuNDBhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/33HzTnurbarmhqu7QN/giphy.gif)
 
 ## ✨ Características Principales
 
