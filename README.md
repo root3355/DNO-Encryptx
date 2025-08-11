@@ -38,3 +38,19 @@ cd ~/DNO-Encryptx/Encryptx/
 #3. Ejecuta el gestor de contraseñas:
 
 python3 gestor_contraseñas.py
+```
+
+## Para sistemas Windows:
+
+1. Clona el repositorio:
+```bash
+git clone https://github.com/root3355/DNO-Encryptx.git
+
+#2. Navega al directorio del proyecto:
+
+cd C:\Users\<tu_usuario>\DNO-Encryptx\Encryptx\
+
+#3. Ejecuta el gestor de contraseñas:
+
+python gestor_contraseñas.py
+```
