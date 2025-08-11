@@ -22,9 +22,19 @@ Un gestor de contraseñas local seguro con cifrado AES-256, autenticación de us
 
 pip install -r requirements.txt
 
-## 🚀 Instalación
+
+# Instrucciones de instalación y ejecución para DNO-Encryptx
+
+## Para sistemas Linux (Kali Linux):
 
 1. Clona el repositorio:
 ```bash
 git clone https://github.com/root3355/DNO-Encryptx.git
-cd gestor-contrasenas
+
+2. Navega al directorio del proyecto:
+```bash
+cd ~/DNO-Encryptx/Encryptx/
+
+3. Ejecuta el gestor de contraseñas:
+```bash
+python3 gestor_contraseñas.py
