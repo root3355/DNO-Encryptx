@@ -31,10 +31,10 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/root3355/DNO-Encryptx.git
 
-2. Navega al directorio del proyecto:
-```bash
+#2. Navega al directorio del proyecto:
+
 cd ~/DNO-Encryptx/Encryptx/
 
-3. Ejecuta el gestor de contraseñas:
-```bash
+#3. Ejecuta el gestor de contraseñas:
+
 python3 gestor_contraseñas.py
