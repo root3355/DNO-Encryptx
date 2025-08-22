@@ -2,6 +2,7 @@ import os
 import json
 import hashlib
 import base64
+import sys
 from cryptography.fernet import Fernet
 from cryptography.hazmat.primitives import hashes
 from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
@@ -9,6 +10,9 @@ import getpass
 from pyfiglet import Figlet
 import time
 
+# Forzar codificación UTF-8
+sys.stdout.reconfigure(encoding='utf-8')
+os.system('chcp 65001 > nul')  # Cambiar a UTF-8 en CMD
 # =============================================
 # Configuración de Estilos y Colores
 # =============================================
